@@ -1,2 +1,3 @@
 # ohtu-2020-viikko1
-![GitHub Actions](https://github.com/vuorenkoski/ohtu-viikko1-s2020/workflows/Java%20CI%20with%20Gradle/badge.svg)
+
+![GitHub Actions](https://github.com/vuorenkoski/ohtu-2020-viikko1/workflows/Java%20CI%20with%20Gradle/badge.svg)

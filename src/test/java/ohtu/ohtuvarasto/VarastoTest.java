@@ -116,7 +116,7 @@ public class VarastoTest {
     @Test
     public void alustusSaldollaSaldoNeg() {
         varasto = new Varasto(10,-1);
-        assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(10, varasto.getSaldo(), vertailuTarkkuus);
     }
 
 }

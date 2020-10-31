@@ -36,3 +36,5 @@ jacocoTestReport {
     }
 }
 
+checkstyleMain
+    .exclude('paaohjelma/Main.java')
